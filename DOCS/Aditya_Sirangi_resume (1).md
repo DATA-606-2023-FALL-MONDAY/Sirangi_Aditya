@@ -1,5 +1,5 @@
 ﻿**ADITYA SIRANGI**      
-
+<img src="Aditya_photo.jpeg" alt="headprofile_pictureshot" width="150"/>
 **1000 Hilltop Circle, Baltimore, MD 21250 | 4437422705 | [adityas3@umbc.edu ](mailto:adityas3@umbc.edu)|[www.linkedin.com/in/adityasirangi**](http://www.linkedin.com/in/adityasirangi)**
 
 
