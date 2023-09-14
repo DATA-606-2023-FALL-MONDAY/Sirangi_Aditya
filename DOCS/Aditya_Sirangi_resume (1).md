@@ -59,12 +59,12 @@ Web Page for Photography	July 2019
 
 # **ACADEMIC COURSEWORK**
 
-Data Structures	
-Resource Management		
-Design and analysis of Algorithm 
-Principles of management and professional ethics	
-Software Engineering	
-Probability and Statistic
+- Data Structures	
+- Resource Management		
+- Design and analysis of Algorithm 
+- Principles of management and professional ethics	
+- Software Engineering	
+- Probability and Statistic
 
 # **ADDITIONAL WORK EXPERIENCE**
 
