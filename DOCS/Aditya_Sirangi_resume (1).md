@@ -23,21 +23,21 @@ Bachelor of Engineering in Computer Science, GPA 3.17/4.0	May 2021
 
 # **PROJECTS**
 #
-# Accelerating Patent Research Using Advanced Text Summarization Techniques                                        May 2023
-- # Applying transformer models to summarize patent data will substantially enhance accuracy and streamline the workload for patent professionals.
-- # This project is intended for patent law organizations and practicing attorneys.
+Accelerating Patent Research Using Advanced Text Summarization Techniques                                        May 2023
+- Applying transformer models to summarize patent data will substantially enhance accuracy and streamline the workload for patent professionals.
+- This project is intended for patent law organizations and practicing attorneys.
 #
-# Alpha Vision using Computer Vision by Hadoop                                                                                                  May 2023
-- # Develop a robust hand gesture recognition system that can detect and segment the hand region from the video input captured by the camera.
-- # Estimate and provide the positions of various hand landmarks, such as fingertips, palm center, and joint.
+Alpha Vision using Computer Vision by Hadoop                                                                                                  May 2023
+- Develop a robust hand gesture recognition system that can detect and segment the hand region from the video input captured by the camera.
+- Estimate and provide the positions of various hand landmarks, such as fingertips, palm center, and joint.
 #
-# Patient Data Management Using Data Structures                                                                                                  December 2022        
-- # Maintaining the patient’s records and data related.
-- # Using OOPS concepts to create and maintain the records.
-- # Using different and efficient algorithms for smooth functioning of data management.
+# Patient Data Management Using Data Structures                                                                                                  December 2022      
+- Maintaining the patient’s records and data related.
+- Using OOPS concepts to create and maintain the records.
+- Using different and efficient algorithms for smooth functioning of data management.
 #
-# Factors affecting world happiness and suicidal rate							 May 2022
-- # The project deals with the information of each country for mental life and overall progress because the increase in happiness in the society can be considered to be progress in public policies implemented by the governments and social progress.
+Factors affecting world happiness and suicidal rate							 May 2022
+- The project deals with the information of each country for mental life and overall progress because the increase in happiness in the society can be considered to be progress in public policies implemented by the governments and social progress.
 #
 Automatic Garbage Classification System Using RESNET-34 – Major Project	 April 2021
 
