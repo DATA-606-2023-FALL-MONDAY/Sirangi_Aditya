@@ -72,16 +72,16 @@ The dataset contains information related to incidents involving migrants' deaths
 The target Variable is a Dependent Variable : Total Number of Dead and Missing
 
 - features 
-Incident Type
-Incident year
-Number of Dead
-Number of Survivors
-Number of Females
-Number of Males
-Number of Children
-Cause of Death
-Country of Origin
-Migration route
+Incident Type,
+Incident year,
+Number of Dead,
+Number of Survivors,
+Number of Females,
+Number of Males,
+Number of Children,
+Cause of Death,
+Country of Origin,
+Migration route.
 - model to predict whether a missing immigrant is more likely to be found alive or not based on available features.
 - identify patterns in missing immigrant incidents.
 - recommendations for policies and interventions to reduce the number of missing immigrants.
