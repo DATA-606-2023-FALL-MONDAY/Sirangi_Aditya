@@ -6,7 +6,7 @@ Author: Aditya Sirangi
 
 GitHub: <https://github.com/AdityaSirangi>
 
-**Why the Project is about?**
+#**Background?**
 
 The Project maintains a database that records incidents in which migrants have died during the process of migration to international destinations, regardless of their legal status.
 
@@ -20,7 +20,7 @@ In addition to the database, the project publishes reports, briefings, and infog
 
 The project provides information and resources to assist those searching for missing migrants.
 
-**Why It Matters:**
+#**Why It Matters:**
 
 The Missing Migrants Project is a critical initiative because it sheds light on the tragic loss of life during migration and highlights one of the significant political failures of our time.
 
@@ -32,7 +32,7 @@ The initiative is funded by various governments and organization.
 
 The project aims to raise awareness of the challenges and risks faced by migrants during their journeys and advocate for safe migration for all.
 
-**Data set:**
+#**Data set:**
 
 The dataset contains information related to incidents involving migrants' deaths. This data is sourced from the International Organization for Migration's Missing Migrants Project (IOM MMP) and provides insights into incidents that occurred in various regions. Below is a summary of the dataset columns:
 
@@ -67,7 +67,7 @@ The dataset contains information related to incidents involving migrants' deaths
 
 
 
-**Predictions and future Work:** 
+#**Predictions and future Work:** 
 
 - model to predict whether a missing immigrant is more likely to be found alive or not based on available features.
 - identify patterns in missing immigrant incidents.
