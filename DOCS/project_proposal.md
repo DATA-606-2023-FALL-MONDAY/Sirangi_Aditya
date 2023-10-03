@@ -1,4 +1,5 @@
-﻿**Project Title - Patterns and Implications of Missing Immigrants Data**
+﻿# Project Title and Author
+ Title - Patterns and Implications of Missing Immigrants Data**
 
 Prepared for UMBC Data Science master’s degree Capstone by Dr Chaojie (Jay) Wang
 
