@@ -8,9 +8,7 @@ Author: Aditya Sirangi
 
 GitHub: <https://github.com/AdityaSirangi>
 
-**Background**
-
-**Introduction to Risk Management**
+# Background
 
 - Effective risk management is fundamental for maintaining economic stability and growth in today's dynamic and interconnected financial landscape.
 - Among various risk management facets, the assessment of credit risk is of paramount importance.
@@ -18,7 +16,7 @@ GitHub: <https://github.com/AdityaSirangi>
 - The ability to assess credit risk accurately is essential for safeguarding the interests of financial institutions and promoting responsible lending.
 - This research focuses on the assessment of credit risk, particularly in the context of customers' default payments in Taiwan.
 
-**Why It Matters:**
+# Why It Matters:
 
 - Ensures financial stability and responsible lending.
 - Drives economic growth and protects consumers.
@@ -27,13 +25,13 @@ GitHub: <https://github.com/AdityaSirangi>
 - Enhances investor confidence and has global relevance.
 - Has practical applications for credit decision-making within financial institutions.
 
-**Objective**
+# Objective
 
 - The primary objective of this research is to predict the actual probability of customer default, moving beyond traditional binary classification.
 - Predicting the real probability of default offers a more profound and precise insight into credit risk.
 - This approach enables more informed and data-driven risk management decisions, providing valuable depth and context.
 
-**Data set:**
+# Data set:
 
 - Information on 30,000 clients has been acquired by the credit card company.
 - The dataset includes data on 25  variables, including demographic information, credit information,  payment history, and bill statements of credit card users from April 2005  to September 2005, as well as information on the result.
@@ -51,7 +49,7 @@ GitHub: <https://github.com/AdityaSirangi>
 
 Dataset reference: [https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients]()
 
-**Proposed Models:**
+# Proposed Models:
 
 - Logistic Regression
 - Neural Networks
