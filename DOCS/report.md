@@ -31,6 +31,11 @@ Dataset reference: https://archive.ics.uci.edu/dataset/350/default+of+credit+car
 |Payment Information|Sep\_Pmt, Aug\_Pmt, Jul\_Pmt, Jun\_Pmt, May\_Pmt, Apr\_Pmt|
 |Default Indicator|DEF\_PAY|
 
+
+# EDA
+
+![age distribution](https://github.com/DATA-606-2023-FALL-MONDAY/Sirangi_Aditya/assets/144384906/f669cc42-951a-4e0d-b95a-890fb7b50bef)
+
 # Models and Evaluations:
 
 - Logistic Regression
