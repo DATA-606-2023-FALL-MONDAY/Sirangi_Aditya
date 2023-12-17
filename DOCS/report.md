@@ -38,13 +38,26 @@ Dataset reference: https://archive.ics.uci.edu/dataset/350/default+of+credit+car
 ![age distribution](https://github.com/DATA-606-2023-FALL-MONDAY/Sirangi_Aditya/assets/144384906/f669cc42-951a-4e0d-b95a-890fb7b50bef)
 
 
-![age distribution](https://github.com/DATA-606-2023-FALL-MONDAY/Sirangi_Aditya/assets/144384906/6e5c5e87-0c85-4231-b91b-ef49b3202b37)
+
+
+![credit limit](https://github.com/DATA-606-2023-FALL-MONDAY/Sirangi_Aditya/assets/144384906/9fc88783-0365-4735-954c-746fcd84c112)
+
+
+
 
 ![payment over time](https://github.com/DATA-606-2023-FALL-MONDAY/Sirangi_Aditya/assets/144384906/33a0bbb1-4b62-4d71-9e3b-2c541ad2c62e)
 
+
+
+
 ![NUMBER OF CLIENTS](https://github.com/DATA-606-2023-FALL-MONDAY/Sirangi_Aditya/assets/144384906/c7983914-8140-4a47-853b-fd40fa24eb7e)
 
+
+
+
 ![NUMBER OF DEFAULTS](https://github.com/DATA-606-2023-FALL-MONDAY/Sirangi_Aditya/assets/144384906/b41a92f3-6470-4146-8374-279f70f43b67)
+
+
 
 
 
