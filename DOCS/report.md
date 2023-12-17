@@ -4,7 +4,7 @@
 - Term: Fall 2023
 - PPT:
 - YouTube:
-- GitHub:
+- GitHub:https://github.com/DATA-606-2023-FALL-MONDAY/Sirangi_Aditya/blob/main/src/capstone_final_code.ipynb
 
 # Background:
 
