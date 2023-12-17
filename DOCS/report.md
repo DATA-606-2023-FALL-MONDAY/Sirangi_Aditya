@@ -6,7 +6,7 @@
 - YouTube:
 - GitHub:
 
-Background:
+# Background:
 
 - Effective risk management is fundamental for maintaining economic stability and growth in today's dynamic and interconnected financial landscape.
 - Among various risk management facets, the assessment of credit risk is of paramount importance.
@@ -14,7 +14,7 @@ Background:
 - The ability to assess credit risk accurately is essential for safeguarding the interests of financial institutions and promoting responsible lending.
 - This research focuses on assessing credit risk, particularly regarding customers' default payments in Taiwan.
 
-Dataset Information:
+# Dataset Information:
 
 - The credit card company has acquired information on 30,000 clients.
 - The dataset includes data on 25 variables, including demographic information, credit information, payment history, and bill statements of credit card users from April 2005 to September 2005, as well as information on the result.
@@ -31,7 +31,7 @@ Dataset reference: https://archive.ics.uci.edu/dataset/350/default+of+credit+car
 |Payment Information|Sep\_Pmt, Aug\_Pmt, Jul\_Pmt, Jun\_Pmt, May\_Pmt, Apr\_Pmt|
 |Default Indicator|DEF\_PAY|
 
-Models and Evaluations:
+# Models and Evaluations:
 
 - Logistic Regression
 
@@ -55,7 +55,7 @@ Models and Evaluations:
 
 - Mixed Naive bayes
 
-Conclusion:
+# Conclusion:
 
 - As we consider Recall as our main performance metric, we observe that it has obtained a value of 0.770 which is better than the other models' results and took less time.
 - For the Neural networks and Support vector machines, we can further tune the hyperparameters for better accuracy and recall values.
