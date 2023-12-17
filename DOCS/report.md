@@ -65,6 +65,7 @@ Dataset reference: https://archive.ics.uci.edu/dataset/350/default+of+credit+car
 
 - Logistic Regression
 
+![lg1](https://github.com/DATA-606-2023-FALL-MONDAY/Sirangi_Aditya/assets/144384906/c0cf8e5d-2d33-47ad-9ba3-6100e488b756)
 
 
 
@@ -75,6 +76,7 @@ Dataset reference: https://archive.ics.uci.edu/dataset/350/default+of+credit+car
 - Neural Networks
 
 
+![rnn](https://github.com/DATA-606-2023-FALL-MONDAY/Sirangi_Aditya/assets/144384906/1a606ec2-6d6f-486a-933d-572e155fcb80)
 
 
 
@@ -84,6 +86,8 @@ Dataset reference: https://archive.ics.uci.edu/dataset/350/default+of+credit+car
 
 
 - Mixed Naive bayes
+
+![mnb](https://github.com/DATA-606-2023-FALL-MONDAY/Sirangi_Aditya/assets/144384906/c55f3ca8-0128-4f1a-adee-70c7162c97fe)
 
 # Conclusion:
 
