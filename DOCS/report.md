@@ -2,9 +2,10 @@
 
 - Author: Aditya Sirangi
 - Term: Fall 2023
-- PPT:
+- PPT:https://github.com/DATA-606-2023-FALL-MONDAY/Sirangi_Aditya/blob/main/DOCS/Capstone_final.pptx
 - YouTube:
 - GitHub:https://github.com/DATA-606-2023-FALL-MONDAY/Sirangi_Aditya/blob/main/src/capstone_final_code.ipynb
+
 
 # Background:
 
